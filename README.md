@@ -2,7 +2,7 @@
 My Trainer for Slay The Spire 2. Made with love!
 
 ## Preview
-https://i.imgur.com/OBq41YY.jpeg
+![Project Screenshot](assets/Screenshot_sts2_vs.jpg)
 
 SLAY THE SPIRE 2 CHEAT/TRAINER
 40+ features • Hotkey support • Press [F5] in-game
