@@ -2,6 +2,7 @@ import threading
 import time
 import keyboard
 import random
+import os
 
 class GameState:
     def __init__(self):
@@ -150,6 +151,7 @@ class Profiles:
 
 def main():
     print("Slay The Spire 2 Trainer")
+    print("Loaded!")
     print("Press F5 in-game")
 
     trainer = Trainer(state)
@@ -168,3 +170,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
