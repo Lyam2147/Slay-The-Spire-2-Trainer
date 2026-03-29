@@ -11,6 +11,7 @@ import json
 print("PRE Post: Hello!")
 print("PRE Post: memory loading...")
 print("PRE Post: Please, wait a bit.")
+print("PRE Post: More on my GitHub!")
 
 class GameState:
     def __init__(self):
